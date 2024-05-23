@@ -1,0 +1,18 @@
+body{
+    font-size: 20px;
+    font-family:sans-serif;
+    text-align: center;
+    background-color:rgb(223, 220, 196);
+    border: 4 black solid;
+   
+}
+ a{
+     text-decoration: none;
+ }
+.first{
+    width: 500px;
+  
+ }
+ .extra{
+     padding: 0px 20px 20px 0px;
+ }
